@@ -1,0 +1,39 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipykernel = "*"
+jupyter = "*"
+dask = "*"
+pandas = "*"
+numexpr = "*"
+matplotlib = "*"
+scipy = "*"
+seaborn = "*"
+scikit-learn = "*"
+scikit-image = "*"
+sympy = "*"
+cython = "*"
+patsy = "*"
+cloudpickle = "*"
+dill = "*"
+bokeh = "*"
+sqlalchemy = "*"
+vincent = "*"
+beautifulsoup4 = "*"
+protobuf = "*"
+xlrd = "*"
+bottleneck = "*"
+plotly = "*"
+numba = "*"
+ipywidgets = "*"
+ipympl = "*"
+facets = "*"
+nbconvert = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
