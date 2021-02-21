@@ -32,6 +32,8 @@ ipywidgets = "*"
 ipympl = "*"
 facets = "*"
 nbconvert = "*"
+pymongo = "*"
+psycopg2 = "*"
 
 [dev-packages]
 
