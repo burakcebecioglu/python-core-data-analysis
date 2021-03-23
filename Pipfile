@@ -35,6 +35,7 @@ facets = "*"
 nbconvert = "*"
 pymongo = "*"
 psycopg2 = "*"
+statsmodels = "*"
 
 [dev-packages]
 
