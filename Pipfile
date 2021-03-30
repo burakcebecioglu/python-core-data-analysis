@@ -9,6 +9,7 @@ jupyter = "*"
 dask = "*"
 pandas = "*"
 numexpr = "*"
+numpy = "*"
 matplotlib = "*"
 scipy = "*"
 seaborn = "*"
@@ -36,6 +37,7 @@ nbconvert = "*"
 pymongo = "*"
 psycopg2 = "*"
 statsmodels = "*"
+jedi = "*"
 
 [dev-packages]
 
