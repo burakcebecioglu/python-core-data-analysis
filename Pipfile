@@ -38,6 +38,8 @@ pymongo = "*"
 psycopg2 = "*"
 statsmodels = "*"
 jedi = "*"
+cx-oracle = "*"
+shap = "*"
 
 [dev-packages]
 
