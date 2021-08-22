@@ -40,6 +40,7 @@ statsmodels = "*"
 jedi = "*"
 cx-oracle = "*"
 shap = "*"
+requests = "*"
 
 [dev-packages]
 
