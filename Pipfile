@@ -41,6 +41,7 @@ jedi = "*"
 cx-oracle = "*"
 shap = "*"
 requests = "*"
+openpyxl = "*"
 
 [dev-packages]
 
